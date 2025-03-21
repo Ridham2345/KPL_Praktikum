@@ -1,0 +1,7 @@
+D:\Praktikum_KPL\Kontruksi Perangkat Lunak\Modul6_2211104016\Modul6_2211104016\bin\Debug\Modul6_2211104016.exe.config
+D:\Praktikum_KPL\Kontruksi Perangkat Lunak\Modul6_2211104016\Modul6_2211104016\bin\Debug\Modul6_2211104016.exe
+D:\Praktikum_KPL\Kontruksi Perangkat Lunak\Modul6_2211104016\Modul6_2211104016\bin\Debug\Modul6_2211104016.pdb
+D:\Praktikum_KPL\Kontruksi Perangkat Lunak\Modul6_2211104016\Modul6_2211104016\obj\Debug\Modul6_2211104016.csproj.AssemblyReference.cache
+D:\Praktikum_KPL\Kontruksi Perangkat Lunak\Modul6_2211104016\Modul6_2211104016\obj\Debug\Modul6_2211104016.csproj.CoreCompileInputs.cache
+D:\Praktikum_KPL\Kontruksi Perangkat Lunak\Modul6_2211104016\Modul6_2211104016\obj\Debug\Modul6_2211104016.exe
+D:\Praktikum_KPL\Kontruksi Perangkat Lunak\Modul6_2211104016\Modul6_2211104016\obj\Debug\Modul6_2211104016.pdb
